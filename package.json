@@ -1,0 +1,29 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "0.1.0",
+  "description": "parse request header: shows ip, software used and preferred language.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acristianf/request-header-parser-microservice.git"
+  },
+  "keywords": [
+    "http",
+    "header",
+    "microservice",
+    "freecodecamp"
+  ],
+  "author": "Cristian Ferretti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acristianf/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/acristianf/request-header-parser-microservice#readme"
+}
